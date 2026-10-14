@@ -1,4 +1,4 @@
-Cible de l'affiche « plan-de-travail-15-8 » — générée le 14/10/2026 15:55:06
+Cible de l'affiche « plan-de-travail-16 » — générée le 14/10/2026 16:43:55
 
 Dépose TOUS ces fichiers dans experience/target/ de ton projet (remplace les fichiers de même nom).
-Reconnaissance : faible (4877 points d'accroche, conseillé ≥ 18000).
+Reconnaissance : faible (5790 points d'accroche, conseillé ≥ 18000).

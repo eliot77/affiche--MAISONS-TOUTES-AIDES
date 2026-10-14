@@ -1,24 +1,24 @@
 {
-  "imagePath": "image-targets/plan-de-travail-15-8_luminance.jpg",
+  "imagePath": "image-targets/plan-de-travail-16_luminance.jpg",
   "metadata": null,
-  "name": "plan-de-travail-15-8",
+  "name": "plan-de-travail-16",
   "type": "PLANAR",
   "properties": {
     "left": 0,
-    "top": 21,
-    "width": 1610,
-    "height": 2147,
+    "top": 27,
+    "width": 2001,
+    "height": 2668,
     "isRotated": false,
-    "originalWidth": 1610,
-    "originalHeight": 2189
+    "originalWidth": 2001,
+    "originalHeight": 2722
   },
   "resources": {
-    "originalImage": "plan-de-travail-15-8_original.jpg",
-    "croppedImage": "plan-de-travail-15-8_cropped.jpg",
-    "thumbnailImage": "plan-de-travail-15-8_thumbnail.jpg",
-    "luminanceImage": "plan-de-travail-15-8_luminance.jpg",
-    "posterImage": "plan-de-travail-15-8_poster.jpg"
+    "originalImage": "plan-de-travail-16_original.jpg",
+    "croppedImage": "plan-de-travail-16_cropped.jpg",
+    "thumbnailImage": "plan-de-travail-16_thumbnail.jpg",
+    "luminanceImage": "plan-de-travail-16_luminance.jpg",
+    "posterImage": "plan-de-travail-16_poster.jpg"
   },
-  "created": 1791986084843,
-  "updated": 1791986084843
+  "created": 1791989003118,
+  "updated": 1791989003118
 }
