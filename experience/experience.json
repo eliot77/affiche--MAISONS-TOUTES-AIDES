@@ -4,6 +4,19 @@
   "author": "Eliot",
   "onLost": "hide",
   "theme": { "color": "#ff3b30", "textColor": "#ffffff", "font": "Space Grotesk" },
-  "behaviors": ["cube-rouge"],
-  "bricks": []
+  "bricks": [
+    {
+      "id": "four",
+      "type": "model",
+      "src": "assets/four.glb",
+      "trigger": "found",
+      "appear": "fade",
+      "x": 0.5,
+      "y": 0.21,
+      "z": 0.25,
+      "size": 0.5,
+      "rotation": { "x": 0, "y": 180, "z": 0 },
+      "animation": "all"
+    }
+  ]
 }
